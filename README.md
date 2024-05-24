@@ -2,7 +2,7 @@
 An Open Source upgrade of the Tronxy X5SA Pro to a highly capable 3D Printer based on Klipper and the Voron Teams Designs
 
 Step 1: Choosing your Parts
-"Insert BOM Link here"
+https://docs.google.com/spreadsheets/d/1tDaB7JIVnb1R4yDRam50uJWcxuR9Q7Ubok1-GsZLodY/edit?usp=sharing
 
 **Required Options:**
 
