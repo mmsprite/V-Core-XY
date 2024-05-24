@@ -15,17 +15,17 @@ SKR 3 or SKR Mini E3 V3
 Voron Stealthburner
 
 **Hotends:**
-Any Voron Stealthburner compatible
+Any Voron Stealthburner compatible,
 recommended: Phaetus Dragon HF
 
 **Extruders:**
 Clockwork 2 or Galileo 2 (recommended)
 
 **Optionals:** 
-Enclosure
-Klipperscreen Touchscreen
-Camera
-Voron Stealthburner with BTT Knomi
+Enclosure,
+Klipperscreen Touchscreen,
+Camera,
+Voron Stealthburner with BTT Knomi,
 LED Printarea Lights
 
 
