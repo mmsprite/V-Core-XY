@@ -36,6 +36,7 @@ Purchase all required Parts of the BOM and a Tronxy X5SA-Pro(buying a used one i
 Step 1:
 3D Print all required Parts and chosen Optional Parts, recommended is PETG or PLA+
 Custom Parts of the V-CORE-XY Project are marked with an [a] for to indicate Accent Parts to be printed in a chosen Accent color if desired
+the quantity of needed Parts is marked with a (qX)
 
 Step 2:
 assemble the Parts as directed by their individual Instructions and Mount them to the Printer
