@@ -4,10 +4,13 @@ An Open Source upgrade of the Tronxy X5SA Pro to a highly capable 3D Printer bas
 Step 1: Choosing your Parts
 "Insert BOM Link here"
 
-**Possible configurations:**
+**Required Options:**
 
 **Boards:**
 SKR 3 or SKR Mini E3 V3
+
+**Toolhead:**
+Voron Stealthburner
 
 **Hotends:**
 Any Voron Stealthburner compatible
@@ -16,4 +19,9 @@ recommended: Phaetus Dragon HF
 **Extruders:**
 Clockwork 2 or Galileo 2 (recommended)
 
-Optional Enclosure
+**Optionals:** 
+Enclosure
+Klipperscreen Touchscreen
+Camera
+Voron Stealthburner with BTT Knomi
+LED Printarea Lights
